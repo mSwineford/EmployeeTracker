@@ -10,7 +10,7 @@ VALUES ("Finance");
 INSERT INTO department (department_name)
 VALUES ("Legal");
 
-/* roles */
+/* jobs */
 INSERT INTO job (title, salary, department_id)
 VALUES ("Manager", 150000, 001);
 INSERT INTO job (title, salary, department_id)
