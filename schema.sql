@@ -19,4 +19,4 @@ CREATE TABLE employee (
     last_name VARCHAR(30) NOT NULL,
     job_id INT NOT NULL,
     manager_id INT 
-);
+); 
